@@ -1,0 +1,635 @@
+### Префиксы/суффиксы
+
+~а/л		* camp
+~т/б		* hotel
+~л.		gl. *
+~оз.		l. *
+~хр.		* range
+~горы		* mountains
+~лет.		*
+~зим.		*
+~ур.		*
+~лощ.		* gully
+~ущ.		* gorge
+~вдп.		* w.fall
+~мазар		mazar *
+~каньон		* canyon
+~рудник		* mine
+~С.		* N
+~Ю.		* S
+~В.		* E
+~З.		* W
+~Зап		* W
+~Вост		* W
+~Сев		* W
+~Юж		* W
+~Южн		* W
+~Зап.		* W
+~Вост.		* W
+~Сев.		* W
+~Юж.		* W
+~Южн.		* W
+~Бол.		* Gr
+~Мал.		* Sm
+~Б.		* Gr
+~М.		* Sm
+~Лев.		* L
+~Пр.		* R
+~Прав.		* R
+~Ц.		* C
+~Центр.		* C
+~Ложн.		* False
+~Ниж.		* Lo
+~Нижн.		* Lo
+~Верх.		* Up
+~Гл.		* Main
+
+### разное
+1А			1A
+1Б			1B
+2А			2A
+2Б			2B
+3А			3A
+3Б			3B
+лесн.				forestry
+лет.				
+зим.				
+сар.				
+мазар				mazar
+д/о				hotel
+вдп.				w.fall
+бур.
+геол.				geol.
+мет.ст.				weath.st.
+нарз.				min.spr.
+недейств.
+скл.				warehouse
+тун.				tun.
+эл.ст.				p.plant
+З.				W
+В.				E
+Ю.				S
+С.				N
+
+### номера ледников
+27				27
+39				39
+43				43
+711				711
+714				714
+
+### Таджикский, Киргизский, прочие языки:
+### транслитерация, иногда с попыткой разбивки на слова
+
+Осмонталь			Osmontal
+Бахадур				Bahadur
+Уштурбутта			Ushturbutta
+месторожд. Дубои Шарки		Dubai-Sharki
+месторожд. Верх.Кумарг		Kumarg
+Лабиджуй			Labidzhoy
+разв.Кабуди			Kabudi
+разв.Парвоз			Parvoz
+тун. Анзоб (Истиклол)		Anzob (Istiklol) tunnel
+Панджахок			Panj-Khok
+Бузголахона			Buzgola-Khona
+Дарисанголат			Dara-e-Sangolat
+Харомкуль			Harom-Kul
+Коктеппа			Kok-Teppa
+Сарыджаво			Sary-Javo
+Талок				Talok
+Тега				Tega
+Ахрут (Дараисангальт)		Akhrut (Dara-e-Sangalt)
+Анзоб				Anzob
+Бузлюк				Buzluk
+Дарх				Darkh
+Дарихона			Dari-Khona
+Дуоба-Симыч (нежил.)		Duoba-Simych
+Джиджикруд			Jijikrud
+Джиджикрудская геол.разв.партия	Jijikrud geol.site
+Фандарья			Fan-Darja
+Фарнау				Farnau
+Фиснау				Fisnau
+Габеруд				Gaberud
+Гафтдара			Gaft-Dara
+Ганчдара (Зорди)		Ganch-Dara (Zordi)
+Газнок				Gaznok
+Газора				Gazora
+Хазорчашма			Khazor-Chishma
+Хосилот				Hosilot
+Хушона				Khushona
+Хширт				Khshirt
+Хширтаб				Khshirt-Ob
+Кафтархона			Kaftar-Khona
+Каиджарга			Kaidzharga
+Камaдон				Kamadon
+Канте				Kante
+Каратабон			Karatabon
+Каратобол			Karatobol
+Киик				Kiik
+Китоб				Kitab
+Кобуты				Kobuty
+Коктеппа			Kok-Teppa
+Комтаг				Kom-Tag
+Кульдара			Kul-Dara
+Кумарг				Kumarg
+Куттикалон			Kutt-e-Kalon
+Ляби Куль			Labi-Kul
+Майхура				Maihura
+Маргиб				Margib
+Марзич				Marzich
+Мазорак				Mazorak
+Минора				Minora
+Мокшеват			Mokshevat
+Мунч				Munch
+Мушвардара			Mushvar-Dara
+Намазгох			Namazgoh
+Насруд				Nasrud
+Новосимич			Novosimich
+Обиагоб				Ob-e-Agob
+Обихирф				Ob-e-Hirf
+Обихуш				Ob-e-Khush
+Обирепшикут			Ob-e-Repshikut
+Обисофруд			Ob-e-Sofrud
+Обишир				Ob-e-Shir
+Обишур				Ob-e-Shur
+Панджхок			Panj-Hok
+Пастиф				Pastif
+Пете				Pete
+Пиндас				Pindas
+Пиндор				Pindor
+Пиньён				Pinjen
+Пиньен				Pinjen
+Пирсар				Pirsar
+Пишанза				Pishanza
+Пормин (Габеруд)		Pormin (Gaberud)
+Пшанза				Pshanza
+Пшодив				Pshodiv
+Яфуч				Jafuch
+Ягноб				Jagnob
+Якарча				Jakarcha
+Работ				Rabot
+Рарз				Rarz
+Ремон				Remon
+Ровзир				Rovzir
+Сангальт			Sangalt
+Сангинавишта			Sang-e-Nawishta
+Сарвада (Зеравшан-1)		Sarvada (Zeravshan-1)
+Сарыджангуль			Sary-Dzhangul
+Седло Газнока			Gaznok Saddle
+Сиама				Siama
+Сиех				Sieh
+Симич				Simich
+Тагоби-Джуфт			Tagobi-Djuft
+Тагоби-Миона			Tagobi-Miena
+Тагобидар			Tagobi-Dar
+Тагобисар			Tagobi-Sar
+Тагрич				Tagrich
+Такфон				Takfon
+Тега				Tega
+Умдара				Um-Dara
+Уштур				Ushtur
+Варзоб				Varzob
+Варзобская Пила			Varzob Saw
+Замин-Карор			Zamin-Karor
+Зеравшан			Zerafshan
+Зеравшан-2			Zerafshan-2
+Зидды				Ziddy
+Зидды (Калон)			Ziddy (Kalan)
+Зимург				Zimurg
+Шаид				Shaid
+Шурак				Shurak
+Шурпаст				Shurpast
+Шутки				Shutki
+Эскидарх			Eskidarkh
+Чоре				Chore
+г о р ы   Т о ч и к у и с а ф е д	Tochiku-e-Safed mountains
+Агашайтан			Agashaitan
+Агмат				Agmat
+Адамташ				Adam-Tash
+Адамташ				Adamtash
+Адиджи				Adidzhi
+Айни				Aini
+Аксай				Ak-Sai
+Аксу-Пиргаза			Aksu-Pirgaza
+Алаудин				Alaudin
+Алаудин (Мутные озера)		Alaudin (Mutnye)
+Алаудинский			Alaudin
+Алло				Allo
+Алло (Сарыкуль)			Allo (Sary-Kul)
+Узл. Алло			Allo Nodal
+Аллоро				Alloro
+Амшут				Amshut
+Анзак				Anzak
+Анзалык				Anzalyk
+Анпешуд				Anpeshud
+Артуч				Artuch
+Артуч				Artuch
+Арх				Arkh
+Арчимайдан			Arch-e-Maidan
+Аспроха				Asproha
+Аурондаг			Auron-Dag
+Ахбасай				Akhba-Sai
+Ахбашир				Akhba-Shir
+Ахдасой				Akhba-Sai
+Ахмат (Арма)			Ahmat (Arma)
+Батурсофи			Batursofi
+Бибиджонат			Bibi-Janat
+Биоб				Biob
+Бирюзовое			Birjuzovoje
+Бодхона				Bodkhona
+Бодхона				Bodkhona
+Большое Алло			Allo Gr
+Бузговат			Buzgovat
+Бузгови				Buzgovi
+Вачаульды			Vachauldy
+Вен				Ven
+Вертикаль-Алаудин		Vertical-Alaudin
+Висячий				Visachi
+Вору				Voru
+Вуанло				Vuanlo
+Габдир				Gabdir
+Газза				Gazza
+Газныч				Gaznych
+Ганза				Ganza
+Гаран				Garan
+Гарганыч			Garganuch
+Говхона				Gow-Khona
+Говхона				Gow-Khona
+Горсек				Gorsek
+Гоухона				Gow-Khona
+Гратулета			Gratuleta
+Гридлик				Gridlik
+Гуинтан				Guintan
+Гуйтан				Guitan
+Гульдаир			Guldair
+Гурмазар			Gur-Mazar
+Дарьяуреч			Daria-Urech
+Двуязычный			Dvujazychny
+Девруд				Devrud
+Дегруд				Degrud
+Демо				Demo
+Джиджик				Dijik
+Джонат				Jonat
+Джошхар				Joshhar
+Диамир				Diamir
+Диамир				Diamir
+Дижик				Dijik
+Дикондара			Dikon-Dara
+Димага				Dimaga
+Дон				Don
+Дохили				Dokhili
+Дудандон			Dudandon
+Дукдон				Dukdon
+Дутандон			Dutandon
+Душаха				Dushaha
+Жанатар				Zhonatar
+Желтый				Yellow
+Жонатор				Zhonatar
+Загхона				Zag-Khona
+Замок				Zamok
+Зард				Zard
+Зармеч				Zarmech
+Зау				Zau
+Зеризаранг			Zerizarang
+Зертеб				Zerteb
+Зиерат				Zierat
+Зиерат				Zierat
+Зимтут				Zimtut
+Зинах				Zinah
+Зиндан				Zindan
+Зиндон				Zindan
+Зиндон				Zindon
+Зомбар				Zombar
+Зурмеч				Zurmech
+Игрок				Igrok
+Имаган				Imagan
+Имат				Imat
+Имат				Imat
+Ирафе				Irafe
+Искандердарья			Iskander-Darja
+Искандеркуль			Iskander-Kul
+Истерек				Isterek
+Истир				Istir
+Кагирид				Kagirid
+Казнок				Kaznok
+Казнок				Kaznok
+Казнок				Kaznok
+Казнок				Kaznok
+Каладаст			Kaladast
+Кальахба			Kal-Ahkba
+Канистон			Kanistan
+Кантар				Kantar
+Кантиф				Kantif
+Канчоч				Kanchoch
+Караарча			Kara-Archa
+Карабчид			Karabchid
+Каракуль			Kara-Kul
+Кахистан			Kuhistan
+Киброн				Kibron
+Кидзал				Kidzal
+Козебод				Kozebod
+Крыктанур			Kryktanur
+Куйчур				Kuichur
+Куликалон			Kul-e-Kalan
+Кулисиёх			Kul-e-Sieh
+Кум				Kum
+Курумоч				Kurumoch
+Кштудак				Kshtudak
+Кштудак З. + Пштикуль	Kshtudak W + Pshtikul
+Кштут				Kshtut
+Лардаш				Lardash
+Лаудан				Laudan
+Лянгар				Lyangar
+Мадовра				Madovra
+Мазалат				Mazalat
+Макшеват			Makshevat
+Манора				Manora
+Маргузор			Marguzor
+Мария				Maria
+Мария				Maria
+Маслихаттеппа			Maslihat-Teppa
+Мирали				Mirali
+Мирон				Miron
+Мунора				Munora
+Мура				Mura
+Муринак				Murinak
+Наваагба			Nava-Akhba
+Нагнуд				Nagnud
+Нагнут				Nagnut
+Намерасед			Namerased
+Нарвад				Narvad
+Новодонак			Novodanak
+Норват				Narvad
+Обардор				Obardor
+Обибарык			Ob-e-Baryk
+Обиборик			Ob-e-Baryk
+Обиборык			Ob-e-Baryk
+Обиборык			Ob-e-Boryk
+Обизуки				Obizuki
+Обикам				Ob-e-Kam
+Обимазар			Ob-e-Maazar
+Обисафед (Сафедоб)		Ob-e-Safed
+Пагна				Pagna
+Пагна				Pagna
+Падиф				Padif
+Пайван-Кунанда			Paivan-Kunanda
+Пайхамбер			Paihamber
+Палгар				Palgar
+Парандас			Parandas
+Парион				Parion
+Пасруд				Pasrud
+Пасруддарья			Pasrud-Darja
+Пасханач			Pashanach
+Патруш				Patrush
+Пештих				Peshtih
+Пиала				Piala
+Плечо Аурондага			Auron-Dag Shoulder
+Поймазар			Poi-Mazar
+Порван				Porvan
+Пушноват			Pushnovat
+Пштикуль			Pshtikul
+Равиатзиет			Raviatziet
+Рапефт				Rapeft
+Реват				Revat
+Рохиб				Rohib
+Рохибский			Rahib
+Рохиохугард			Rohiohugard
+Рудаки				Rudaki
+Рузироват			Ruzirovat
+Рунич				Runich
+Сангассия			Sangassia
+Сангиоб				Sang-e-Ob
+Сангисафед			Sang-e-Safed
+Санки				Sanki
+Санки-Буз			Sanki-Buz
+Санки-Шахгар			Sanki-Shahgar
+Саркок				Sarkok
+Сароф				Sarof
+Сары-Обихунук			Sary-Ob-e-Khunuk
+Сарымат				Sarymat
+Сарыоб				Sary-Ob
+Сарытаг				Sary-Tag
+Сарыходан			Sary-Khodan
+Сарыходан (35)			Sarykhodan
+Сарыходан (36)			Sarykhodan
+Сарышах				Sary-Shakh
+Сарышаха Седло			Sary-Shakh Saddle
+Саци-Илак			Saci-Ilan
+Седло Бодхоны			Bod-Khona Saddle
+Седло Ганзы			Ganza Saddle
+Седло Пушноват			Pushnovat Saddle
+Седло Чапдары			Chapdara Saddle
+Семдеград			Semdegrad
+Серидевол			Seridevol
+Серима				Serima
+Серимадарун			Serima-Darun
+Серимы				Serima
+Симоб				Simob
+Симон				Simon
+Соминг				Soming
+Сувтор				Suvtor
+Сувтор (Ганза З.)		Suvtor (Ganza W)
+Сурх				Surkh
+Сурхоб				Surkh-Ob
+Сурхоб				Surkh-Ob
+Тагикучи			Tagi-Kuchi
+Талбас				Talbas
+Тангисой			Tangi-Sai
+Тандара				Tan-Dara
+Тарма				Tarma
+Тарок				Tarok
+Тахт				Takht
+Темир-Тау			Temir-Tau
+Темиртау			Temir-Tau
+Типа				Tipa
+Тогайписта			Togaipista
+Тодэ				Tode
+Толокисафед			Tolok-e-Safed
+Тунукча				Tunukcha
+Турзуль				Turzul
+Турзульский			Turzul
+Турткуль (Турзуль)		Turt-Kul (Turzul)
+Уреч				Urech
+Успутта				Usputta
+Уян				Ujan
+Фагитор				Fagitor
+Фан-Улла			Fan-Ulla
+Филорт				Filort
+Хавзак				Khavzak
+Хаджикитоб			Khoja-Kitab
+Хазормеч			Khazor-Mech
+Хайрамбет			Khairambet
+Хайронбед			Khaironbed
+Хоббит				Hobbit
+Ходжаекуб			Khodzha-e-Kub
+Ходжароват			Khoja-Rovat
+Ходжикишвар			Khoja-Kishwar
+Хохт				Khoht
+Хулолод				Khulolod
+Хуморигунт			Khumorigunt
+Хучируд				Khuchirud
+Хуштарата			Khushtarata
+Чапдара				Chap-Dara
+Чапдара (Алаудинские озера)	Chap-Dara (Alaudin)
+Чимтарга			Chimtarga
+Чинар				Chinar
+Чори				Chori
+Чукурак				Chukurak
+Шадон				Shadon
+Шамe				Shame
+Шогун-Ага			Shogun-Aga
+Шогунага			Shogun-Aga
+Шурмашк				Shurmashk
+Энергия				Energia
+В.Энергия			Energia E
+Юртыкара			Jurtykara
+Яхкахона			Jaka-Khona
+разв.кр.Лешти			Leshti fortress
+
+### Простые географические
+
+Владивосток			Vladivostok
+Челябинск			Chelyabinsk
+Караганда			Karaganda
+Болгарский			Bulgarian
+Бородино			Borodino
+Енисей				Enisei
+Голгофа				Golgofa
+Кишиневский			Kishinev
+Кузбасс				Kuzbass
+Москва				Moscow
+Омский				Omsk
+Полтава				Poltava
+Полтава-2			Poltava-2
+Самарский			Samara
+Саратовский			Saratov
+Сибирский			Siberian
+Жигули				Zhiguli
+Вильнюс				Vilnius
+Волжский			Volzhsky
+Зеленоград			Zelenograd
+Эстонский			Estonian
+Челябинский			Cheliabinsk
+Ташкентец			Tashkentets
+
+### Сложные географические
+
+Крылья Таджикистана		Tajikistan Wings
+Фанская сказка			Fanskaya Skazka
+Героев Курской Битвы		Kursk Battle
+Комсомолец Алтая		Altay Komsomol
+Москвичей Седло			Moscow Saddle
+Седло Калужан			Kaluga Saddle
+Тадж.Ученых			Tadjik Scientists
+Волжская Коммуна		Volga Commune
+
+### Фамилии
+
+Гусева-Мухина			Gusev-Mukhin
+И.Бандривского			I.Bandrivsky
+Шолохова			Sholohov
+Чаплыгина			Chaplygina
+Тынинкина			Tyninkin
+
+### Аббривиатуры
+
+ЦС по туризму	CST
+ФиС		FiS
+МАК		MAK
+СОАН		SOAN
+ТСХИ		TSHI
+ВАА		VAA
+ВЭИ		VEI
+Политехник	Polytechnik
+
+### Прилагательные - перевод
+
+Безымянная		Noname
+Юбилейный		Jubelee
+Олимпийский		Olympic
+Центральный		Central
+Восточный		Eastern
+Широкая			Wide
+
+### Прилагательные
+
+Ледниковый		Lednikovy
+Ледовый			Ledovy
+Ближний			Blizhny
+Ближняя			Blizhnaya
+Яшмовый			Yashmovy
+Дождемерная		Dozhdemernaya
+Двойной			Dvoynoy
+Кальгаспорный		Kalgasporny
+Межозерный		Mezhozerny
+Белое			Beloye
+Лесное			Lesnoe
+Обзорный		Obzorny
+Красноключенский	Krasnokljuchensky
+Промежуточный		Promezhutochny
+Яшмовая			Yashmovaya
+Разведочный		Razvedochny
+Северный		Severny
+Скалистый		Skalisty
+Сыпучая			Sypuchaya
+Траверсный		Traversny
+Черный			Cherny
+Экспедиционный		Ekseditsionny
+Звериный		Zveriny
+Звериный Ложн.		False Zveriny
+Звериный-2		Zveriny-2
+Желтая			Zheltaya
+Вечерний		Vecherny
+
+### Существительные, перевод
+
+Блок			Block
+Блок-2			Block-2
+Флюорит			Flourit
+Кальцит			Calcite
+Флибустьер		Filibuster
+Кентавр			Centaurus
+Ложный			False
+Обзорный Пункт		View Point
+Черная Башня		Black Tower
+Сахарная Голова		Sugar Head
+Медвежьи ворота		Bear Gates
+Близнецы		Twins
+Геолог			Geologist
+Трезубец		Trident
+Октябрь			October
+
+### Прочие существительные
+
+Барс			Bars
+Белый Барс		Bely Bars
+Башня			Tower
+Боксеры			Boksery
+Борцов за мир		Bortsov za Mir
+Борцов за Мир		Bortsov za Mir
+Динозаврик		Dinozavrik
+Дитя			Ditya
+Грешников		Greshnikov
+Кораблики		Korabliki
+Кр.Зорь			Krasnyh Zor
+Линкор			Linkor
+Мученики		Mucheniki
+Надежда			Nadezhda
+Озерный			Ozerny
+Пальцы			Fingers
+Ск.Стена		Skalnaya Stena
+Сказок			Skazok
+Собор			Sobor
+Ступенька		Stupenka
+Замок			Zamok
+Змея			Zmeja
+Шахтер			Shahter
+Энергия			Energia
+Союз			Soyuz
+Малышка			Malyshka
+Четырех			Chetyreh
+
+### Игра слов
+
+На-Имат			Na-Imat
+!Трех М.		Three M

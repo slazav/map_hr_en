@@ -1,0 +1,20 @@
+#!/usr/bin/sh -efu
+
+MS2VMAP=~/mapsoft2/programs/ms2vmap/ms2vmap
+SRC_VMAP_DIR=../map_hr/vmap
+DST_VMAP_DIR=vmap
+SRC_VMAP_EXT=vmap
+DST_VMAP_EXT=vmap2
+
+for i in "$@"; do
+  name=${i%.*}
+  name=${name##*/}
+  src="$SRC_VMAP_DIR/$name.$SRC_VMAP_EXT"
+  dst="$DST_VMAP_DIR/$name.$DST_VMAP_EXT"
+  if [ ! -f "$src" ]; then
+    echo "can't find file: $src"
+    continue
+  fi
+
+  ${MS2VMAP} --edit update_en.txt --keep_labels 50 "$src" -o "$dst" | iconv -f UTF8
+done

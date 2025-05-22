@@ -1,0 +1,35 @@
+
+##if type==point:0x1000 then set_alt_name /mnt/disk/DEM/ALOS2024/
+
+# remove short segments and duplicated points
+#if type==line or type==area
+#  rem_short 2 0
+#  rem_dup_pt 10
+#endif
+
+# fix ridge/river ends
+if type==line:0x0C then move_ends 50 line:0x0C
+if type==line:0x26 then move_ends 50 line:0x26 line:0x15 line:0x18
+if type==line:0x15 then move_ends 50 line:0x15 line:0x18
+if type==line:0x18 then move_ends 50 line:0x18
+
+#      vmap_rem_dups(vmap, "line:0x0C", 10);
+#      vmap_join(vmap, "line:0x0C", 120);
+#      vmap_join(vmap, "line:0x0C", 120);
+
+# remove original altitude marks
+if type==point:0x1100 or type==point:0xF00 or ref_type==point:0x1100 or ref_type==point:0xF00
+  if name=~^[0-9]+$ then delete
+  re_name "^[0-9]+ +" ""
+endif
+
+# remove () in altitudes
+if type==point:0xD00 or ref_type==point:0xD00
+  re_name "\\(|\\)" ""
+  if opts[Source]==ALOS-100 then set_scale 1.5
+endif
+
+if name_8bit
+#  if type!=text then print "object: ${name}"
+  translate dictionary.txt
+endif
