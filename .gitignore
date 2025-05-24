@@ -1,0 +1,9 @@
+*.log
+fig
+lock
+diff
+
+IN
+OUT
+
+untranslated.txt
