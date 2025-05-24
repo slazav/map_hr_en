@@ -7,7 +7,7 @@ name Chore
 crds 68.509712 39.304262
 
 point:0x900
-name Duoba-Simych
+name Duoba-Simych (uninh.)
 crds 68.642597 39.222068
 
 point:0x900
@@ -901,7 +901,7 @@ opts Source: westra_passes
 crds 68.506313 39.282946
 
 point:0x1100
-name Dari-Khona
+name Dari-Khana
 opts Source: westra_passes
 crds 68.778329 39.317514
 
@@ -926,7 +926,7 @@ opts Source: westra_passes
 crds 68.970900 39.157314
 
 point:0x1100
-name Kaftar-Khona
+name Kaftar-Khana
 opts Source: westra_passes
 crds 68.651655 39.177508
 
@@ -976,6 +976,11 @@ opts Source: westra_passes
 crds 68.546322 39.146296
 
 point:0x1100
+name Shiroky
+opts Source: westra_passes
+crds 68.645269 39.015868
+
+point:0x1100
 name Sieh
 opts Source: westra_passes
 crds 68.690196 39.009061
@@ -1021,11 +1026,6 @@ opts Source: westra_passes
 crds 68.956890 39.188360
 
 point:0x1100
-name Wide
-opts Source: westra_passes
-crds 68.645269 39.015868
-
-point:0x1100
 name Zamin-Karor C
 opts Source: westra_passes
 crds 68.955889 39.179825
@@ -1049,7 +1049,7 @@ name Bear Gates gorge
 crds 68.587082 39.028439
 
 point:0x2800
-name Buzgola-Khona
+name Buzgola-Khana
 crds 68.771164 39.123397
 
 point:0x2800
@@ -1057,7 +1057,7 @@ name Dara-e-Sangolat
 crds 68.825686 39.025155
 
 point:0x2800
-name Dubai-Sharki
+name Dubai-Sharki mine
 crds 68.567985 39.270729
 
 point:0x2800
@@ -1069,7 +1069,7 @@ name Kok-Teppa
 crds 68.918967 39.059090
 
 point:0x2800
-name Kumarg
+name Kumarg mine Up
 crds 68.628618 39.289521
 
 point:0x2800
@@ -1201,9 +1201,6 @@ crds 68.687257 39.107705
 
 point:0x6402
 crds 68.689140 39.149693
-
-point:0x6402
-crds 68.690737 39.066637
 
 point:0x6402
 crds 68.699074 39.064423
@@ -1467,6 +1464,10 @@ name Ushturbutta
 crds 68.724919 39.046202
 
 point:0x6402
+name mine
+crds 68.690737 39.066637
+
+point:0x6402
 name warehouse
 crds 68.629846 39.209517
 
@@ -1508,9 +1509,6 @@ crds 68.590792 39.017081
 
 point:0x640c
 crds 68.594408 39.017454
-
-point:0x640c
-crds 68.597328 39.018445
 
 point:0x640c
 crds 68.597935 39.045061
@@ -1637,6 +1635,10 @@ crds 68.891734 39.018725
 
 point:0x640c
 crds 68.892549 39.016791
+
+point:0x640c
+name defunct
+crds 68.597328 39.018445
 
 point:0x6414
 crds 68.503248 39.095692
@@ -2260,7 +2262,7 @@ name Farnau
 crds 68.987241 39.224056
 
 point:0x6415
-name Kabudi
+name Kabudi ruins
 crds 68.773505 39.002043
 
 point:0x6415
@@ -2268,7 +2270,7 @@ name Maihura
 crds 68.592411 39.021211
 
 point:0x6415
-name Parvoz
+name Parvoz ruins
 crds 68.580800 39.135961
 
 point:0x6415
@@ -2746,11 +2748,6 @@ opts Source: westra_passes
 crds 68.970896 39.165290
 
 point:0x6704
-name Eastern
-opts Source: westra_passes
-crds 68.989422 39.181292
-
-point:0x6704
 name Gaznok Saddle
 opts Source: westra_passes
 crds 68.554167 39.069722
@@ -2759,6 +2756,11 @@ point:0x6704
 name Gaznok Up
 opts Source: westra_passes
 crds 68.559837 39.062451
+
+point:0x6704
+name Vostochny
+opts Source: westra_passes
+crds 68.989422 39.181292
 
 point:0x6705
 name Central
